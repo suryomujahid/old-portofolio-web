@@ -6,9 +6,9 @@ const RESOURCES = {
   "assets/AssetManifest.json": "92c6cc0f2b741e5fc771e35c90fdc07a",
 "assets/assets/fonts/Lato-Bold.ttf": "85d339d916479f729938d2911b85bf1f",
 "assets/assets/fonts/Lato-Regular.ttf": "2d36b1a925432bae7f3c53a340868c6e",
-"assets/assets/img/css3.png": "69b8642690d8b84dedaa98fb6636a564",
+"assets/assets/img/css3.png": "b7bfa6384a3efd2c9d53edfcd8d0537e",
 "assets/assets/img/flutter.png": "8a50b602aa79b19775c22d02a290f51f",
-"assets/assets/img/html5.png": "cebe131c7a48e8f2fd16be72b2ddd80d",
+"assets/assets/img/html5.png": "ccffd9b21e938594c1091d6f55670063",
 "assets/assets/img/iBadminton.png": "2dc23b10eb1a809c23b37532e6a394c6",
 "assets/assets/img/iGaming.png": "1d2193df8ca3d9e152a74a225e6fabf2",
 "assets/assets/img/iPainting.png": "497acf614cccaefe9acc3645ea2f782b",
@@ -35,7 +35,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "bd053d4699e838ce1608f4cee963084c",
 "/": "bd053d4699e838ce1608f4cee963084c",
-"main.dart.js": "bab3bd819b3a031b1c32a8967f672b30",
+"main.dart.js": "7ac964d8a2e4befed10b150c89b18655",
 "manifest.json": "fd810f7e713bc9aa460e94ac22616723"
 };
 
